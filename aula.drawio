@@ -892,8 +892,20 @@
         <mxCell id="1s5BfLoXKFIgVj2yKZr6-1" value="passageiros" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="190" width="110" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="1s5BfLoXKFIgVj2yKZr6-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="190" width="110" height="170" as="geometry" />
+        <mxCell id="1s5BfLoXKFIgVj2yKZr6-2" value="companhias aéreas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="150" width="110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1s5BfLoXKFIgVj2yKZr6-5" value="comprar passagem" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="235" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1s5BfLoXKFIgVj2yKZr6-6" value="fazer chek-in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1s5BfLoXKFIgVj2yKZr6-7" value="cadastrar voos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1s5BfLoXKFIgVj2yKZr6-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="195" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
